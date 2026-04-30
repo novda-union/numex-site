@@ -128,3 +128,15 @@
     @apply font-sans;
   }
 }
+
+.legal-content h2 {
+  @apply text-2xl font-semibold tracking-normal text-slate-950;
+}
+
+.legal-content p {
+  @apply mt-3 text-base leading-8 text-slate-700;
+}
+
+.legal-content a {
+  @apply font-medium text-[#047857] underline underline-offset-4 hover:text-[#059669];
+}
