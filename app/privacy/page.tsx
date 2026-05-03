@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     'Privacy Policy for Numex, a private finance assistant powered by Xroot.',
 }
 
-const updatedAt = 'April 30, 2026'
+const updatedAt = 'May 3, 2026'
 
 export default function PrivacyPolicyPage() {
   return (
@@ -136,12 +136,11 @@ export default function PrivacyPolicyPage() {
           temporary audio is cleaned up automatically.
         </p>
         <p>
-          You can request account deletion inside the Numex app. The current app
-          schedules deletion with a 30-day grace period. Signing in again during
-          that period cancels the deletion request. After the grace period, your
-          account and associated user data are permanently deleted unless we must
-          retain limited records for security, fraud prevention, accounting,
-          dispute resolution, or legal compliance.
+          You can request account deletion inside the Numex app. Account
+          deletion is immediate and permanent after you confirm with Google
+          sign-in. Your account and associated user data are permanently deleted
+          unless we must retain limited records for security, fraud prevention,
+          accounting, dispute resolution, or legal compliance.
         </p>
         <p>
           To request deletion outside the app, email{' '}

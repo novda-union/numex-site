@@ -137,6 +137,10 @@
   @apply mt-3 text-base leading-8 text-slate-700;
 }
 
+.legal-content ul {
+  @apply mt-3 list-disc space-y-2 pl-5 text-base leading-8 text-slate-700;
+}
+
 .legal-content a {
   @apply font-medium text-[#047857] underline underline-offset-4 hover:text-[#059669];
 }
